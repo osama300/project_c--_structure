@@ -1,5 +1,5 @@
 #include <iostream>
-ة#include "constant.cpp"
+#include "constant.cpp"
 using namespace std;
 
 const double Constant::EULER_CONST = 2.718281828459045;
